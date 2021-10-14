@@ -36,7 +36,7 @@ case "$choice" in
      ;;
     "n" | "N")
         exit ;;
-            echo "${rd}Bye !${default}"
+            echo "${red}Bye !${default}"
     *)
         echo "${red}Something unexpected happened"
 
