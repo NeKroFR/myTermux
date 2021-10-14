@@ -25,6 +25,13 @@ echo "${default}"
 
 case "$choice" in
     "y" | "Y")
+            apt update && apt upgrade
+            pkg install clang && pkg install git
+            pkg install python2
+            git clone https://github.com/saintmalik/Ethicaltools.git
+            cd Ethicaltools
+            chmod +x smtools.py
+            python2 smtools.py
             echo "${green}Installation succesful !${default}"
      ;;
     "n" | "N")
