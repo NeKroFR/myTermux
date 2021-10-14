@@ -35,8 +35,8 @@ case "$choice" in
             echo "${green}Installation succesful !${default}"
      ;;
     "n" | "N")
-        exit ;;
             echo "${red}Bye !${default}"
+            exit ;;
     *)
         echo "${red}Something unexpected happened"
 
