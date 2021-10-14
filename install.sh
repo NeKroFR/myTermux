@@ -16,7 +16,7 @@ echo "${purple}    ███     ▀▀███▀▀▀     ▀▀███▀
 echo "${purple}    ███       ███    █▄  ▀███████████ ███   ███   ███ ███    ███   ▐███  ▀███    "
 echo "${purple}    ███       ███    ███   ███    ███ ███   ███   ███ ███    ███  ▄███     ███▄  "
 echo "${purple}   ▄████▀     ██████████   ███    ███  ▀█   ███   █▀  ████████▀  ████       ███▄ "
-echo "${purple}                           ███    ███                                           ${green}\n" 
+echo "${purple}                           ███    ███                                           ${green}" 
 printf "Do you want to install all the tools?\n[Y/N]"
 
 read choice
