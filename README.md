@@ -1,4 +1,4 @@
-# Termux for pentesting [<img src="https://raw.githubusercontent.com/NeKroFR/README-files/main/termux.png" width="40" height="40"/>](https://termux.com/)
+# Termux for pentesting [<img src="https://i.imgur.com/YE3y27n.png" width="40" height="40"/>](https://termux.com/)
 
 ```
 pkg install git
